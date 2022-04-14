@@ -1,5 +1,4 @@
 let hours = new Date().getHours();
-console.log(hours)
 
 function Mode() {
 
